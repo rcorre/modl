@@ -4,7 +4,7 @@
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/jmoiron/modl)
 
 Modl is a library which provides database modelling and mapping.   It is a fork of
-James Cooper's wonderful [gorp](http://github.com/coopernurse/gorp).
+James Cooper's wonderful [gorp](https://github.com/go-gorp/gorp).
 
 **Note**.  Modl's public facing interface is considered unfinished and open to
 change.  The current API will not be broken lightly, but additions are likely.
